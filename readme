@@ -7,4 +7,3 @@ Este projeto foi feito utilizando NodeJS junto com banco de dados MySQl no backe
 ## Como executar
 
 Entre na raiz do projeto, execute o comando `npm i` para instalar as dependencias. Por fim, execute o comando `node index.js`.
-
